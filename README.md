@@ -5,3 +5,7 @@ I used https://www.devglan.com/online-tools/hmac-sha256-online to verify my HMAC
 <img src="01.jpg">
 
 <img src="02.jpg">
+
+So My code gave the same Hash value as the website results. But I still have [401] response from the API. 
+
+If anyone can help me figure out what's wrong with my code, I'll be very appreciate.
