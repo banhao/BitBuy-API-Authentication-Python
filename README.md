@@ -1,5 +1,5 @@
 # BitBuy-API-Authentication-Python
-This is a POC that convert BitBuy API Authentication Java code to Python 
+This is a POC that converts BitBuy API Authentication Java code to Python 
 
 BitBuy API documents:
 
