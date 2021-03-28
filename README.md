@@ -1,6 +1,10 @@
 # BitBuy-API-Authentication-Python
 This is a POC that convert BitBuy API Authentication Java code to Python 
 
+BitBuy API documents:
+
+https://bitbuy.ca/assets/api/docs/#/?id=partner-api-key-endpoints
+
 I used https://www.devglan.com/online-tools/hmac-sha256-online to verify my HMAC is correct or not.
 <img src="01.jpg">
 
