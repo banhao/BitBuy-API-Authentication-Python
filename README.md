@@ -14,4 +14,4 @@ So My code gave the same Hash value as the website results. But I still have [40
 
 If anyone can help me figure out what's wrong with my code I'll be very appreciate.
 
-BTW, I tried to contact BitBuy but they refused to suppy any support about their API.
+BTW, I tried to contact BitBuy but they refused to supply any support about their API.
