@@ -1,4 +1,6 @@
-# BitBuy-API-Authentication-Python
+# BitBuy API Authentication Python
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 This is a POC that converts BitBuy API Authentication Java code to Python 
 
 BitBuy API documents:
